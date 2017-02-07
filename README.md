@@ -1,2 +1,2 @@
 # HiTalkYX
-即时通讯
+IM
