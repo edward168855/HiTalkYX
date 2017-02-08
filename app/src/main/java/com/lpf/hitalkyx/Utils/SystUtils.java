@@ -1,4 +1,4 @@
-package com.lpf.hitalkyx.Utils;
+package com.lpf.hitalkyx.utils;
 
 import android.app.ActivityManager;
 import android.content.Context;

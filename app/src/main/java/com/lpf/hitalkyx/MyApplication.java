@@ -5,8 +5,8 @@ import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Environment;
 
-import com.lpf.hitalkyx.Utils.ScreenMgr;
-import com.lpf.hitalkyx.Utils.SystUtils;
+import com.lpf.hitalkyx.utils.ScreenMgr;
+import com.lpf.hitalkyx.utils.SystUtils;
 import com.netease.nimlib.sdk.NIMClient;
 import com.netease.nimlib.sdk.SDKOptions;
 import com.netease.nimlib.sdk.StatusBarNotificationConfig;

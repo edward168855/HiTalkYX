@@ -1,4 +1,4 @@
-package com.lpf.hitalkyx.Utils;
+package com.lpf.hitalkyx.utils;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
