@@ -50,6 +50,7 @@ import java.util.List;
  */
 public final class NimUIKit {
 
+
     // context
     private static Context context;
 

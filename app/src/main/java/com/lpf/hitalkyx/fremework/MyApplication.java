@@ -11,7 +11,6 @@ import com.lpf.hitalkyx.R;
 import com.lpf.hitalkyx.utils.ScreenMgr;
 import com.lpf.hitalkyx.utils.SystUtils;
 import com.netease.nim.uikit.NimUIKit;
-import com.netease.nim.uikit.contact.core.util.ContactHelper;
 import com.netease.nimlib.sdk.NIMClient;
 import com.netease.nimlib.sdk.SDKOptions;
 import com.netease.nimlib.sdk.StatusBarNotificationConfig;
