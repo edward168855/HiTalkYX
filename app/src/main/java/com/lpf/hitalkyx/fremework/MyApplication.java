@@ -8,6 +8,7 @@ import android.text.TextUtils;
 
 import com.lpf.hitalkyx.MainActivity;
 import com.lpf.hitalkyx.R;
+import com.lpf.hitalkyx.crash.CrashHandler;
 import com.lpf.hitalkyx.utils.ScreenMgr;
 import com.lpf.hitalkyx.utils.SystUtils;
 import com.netease.nim.uikit.NimUIKit;
@@ -33,6 +34,10 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
         instance = this;
+
+        // 全局异常捕获
+        CrashHandler crashHandler = CrashHandler.getInstance();
+        crashHandler.init(getApplicationContext());
 
         // SDK初始化（启动后台服务，若已经存在用户登录信息， SDK 将完成自动登录）
         NIMClient.init(this, loginInfo(), options());

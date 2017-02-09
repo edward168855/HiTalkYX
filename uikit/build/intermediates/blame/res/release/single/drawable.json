@@ -64,12 +64,12 @@
         "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
     },
     {
-        "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\explosion.xml",
-        "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable\\explosion.xml"
-    },
-    {
         "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
         "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\explosion.xml",
+        "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable\\explosion.xml"
     },
     {
         "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",

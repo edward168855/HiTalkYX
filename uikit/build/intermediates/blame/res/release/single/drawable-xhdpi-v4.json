@@ -140,12 +140,12 @@
         "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nim_moon_page_unselected.png",
-        "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable-xhdpi\\nim_moon_page_unselected.png"
-    },
-    {
         "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png",
         "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable-xhdpi\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nim_moon_page_unselected.png",
+        "source": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\res\\drawable-xhdpi\\nim_moon_page_unselected.png"
     },
     {
         "merged": "D:\\2017\\02\\06\\HiTalkYX\\uikit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\nim_cameras_hover.png",
